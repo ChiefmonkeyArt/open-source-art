@@ -1,4 +1,6 @@
 # open-source-art
+I am going to be realeasing all of my artwork going forward as free open source.
+
 This is a collection of all the source files for my laser cut bitcoin and nostr artwork.
 
 ## Value 4 Value
